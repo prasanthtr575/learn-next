@@ -17,9 +17,6 @@ export default function Home() {
           create performant and SEO-friendly websites. Essentially, Next.js
           builds on top of React to offer a more complete development
           experience.
-          <hr />
-          <Calculator />
-          <PhysicalCalculator />
         </main>
       </div>
     </>
