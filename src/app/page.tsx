@@ -4,10 +4,10 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         Next.js is a React framework that simplifies building web applications
         by providing additional features and structure beyond the core React
-        library. It's designed to handle tasks like server-side rendering,
-        static site generation, and routing, making it easier to create
-        performant and SEO-friendly websites. Essentially, Next.js builds on top
-        of React to offer a more complete development experience.
+        library. It`&apos;`s designed to handle tasks like server-side
+        rendering, static site generation, and routing, making it easier to
+        create performant and SEO-friendly websites. Essentially, Next.js builds
+        on top of React to offer a more complete development experience.
       </main>
     </div>
   );
