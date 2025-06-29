@@ -1,5 +1,3 @@
-import Calculator from "./components/calculator/Calculator";
-import PhysicalCalculator from "./components/calculator/PhysicalCalculator";
 import { ModeToggle } from "./components/themes/ModeToggle";
 
 export default function Home() {
